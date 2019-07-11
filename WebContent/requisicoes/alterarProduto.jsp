@@ -21,4 +21,4 @@ if(ProdutoDao.alterar(idProduto, nomeProduto, valorProduto)== true){
 out.print(idProduto+"<br>");
 out.print(nomeProduto+"<br>");
 out.print(valorProduto);*/
-%>
+%> 
